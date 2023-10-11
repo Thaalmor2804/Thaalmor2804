@@ -2,7 +2,7 @@
 <h3 align="center">A passionate freelancer in content marketing creation from France 🇫🇷</h3>
 
 <div align="center">
-  <img width="100%" src="https://github.com/Thaalmor2804/Thaalmor2804/SEOsaurus-banner-gh.png" alt="cover" />
+  <img width="100%" src="SEOsaurus-banner-gh.png" alt="SEOsaurus banner" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
