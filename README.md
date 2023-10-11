@@ -33,7 +33,7 @@ If you have any questions, collaboration opportunities, or just want to discuss 
 I'm looking forward to connecting with you and exploring new exciting opportunities in the world of web marketing. Let's team up to achieve new online heights!
 
 <div align="center">
-  <img width="100%" src="SEOsaurus-banner-gh.png" alt="SEOsaurus banner" />
+  <img width="100%" src="en-github (1).png" alt="SEOsaurus banner" />
 </div>
 
 Thank you for visiting my GitHub profile.
