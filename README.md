@@ -2,6 +2,10 @@
 
 **Hello, I'm Noah Sturtzer, a passionate web marketing enthusiast, always eager to learn new skills and open to exciting opportunities as a freelancer or in a full-time role.** I'm also the proud owner of *SEOsaurus webmarketing consulting*.
 
+<div align="center">
+  <img width="100%" src="noah-gh.jpg" alt="photo of noah" />
+</div>
+
 ## About Me
 
 🚀 I'm a dedicated follower of the world of web marketing, **constantly searching for innovative ways to enhance online visibility, generate qualified traffic, and maximize conversions**.
