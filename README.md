@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A passionate content marketing creator from France</h3>
+<h1 align="center">Hi, I'm Noah 👋</h1>
+<h3 align="center">A passionate freelancer in content marketing creation from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on **my website**
+<div align="center">
+  <img width="100%" src="https://github.com/Thaalmor2804/Thaalmor2804/SEOsaurus-banner-gh.png" alt="cover" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
