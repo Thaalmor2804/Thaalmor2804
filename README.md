@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello, I'm [Your Name], a passionate web marketing enthusiast, always eager to learn new skills and open to exciting opportunities as a freelancer or in a full-time role.
+Hello, I'm Noah Sturtzer, a passionate web marketing enthusiast, always eager to learn new skills and open to exciting opportunities as a freelancer or in a full-time role.
 
 ## About Me
 
